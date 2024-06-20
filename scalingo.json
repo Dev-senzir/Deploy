@@ -3,7 +3,7 @@
     "description": "• تنصيب سـورس ريفز مجاناً علـى منصـة سكـالينجـو • افضـل سـورسـات يـوزربـوت العربيـة",
     "addons": ["scalingo-postgresql"],
     "keywords": ["senzir", "ai","telegram"],
-    "repository": "https://github.com/Dev-senzir/REFZ_SN",
+    "repository": "https://github.com/Dev-senzir/Deploy",
     "logo": "https://telegra.ph/file/e64579f7b051ebb34bcb7.jpg",
     "stack": "container",
     "env": {
